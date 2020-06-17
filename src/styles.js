@@ -1,6 +1,6 @@
 const baseStyle = {
   height: '50px',
-  width: '240px',
+  width: '100%',
   border: 'none',
   textAlign: 'center',
   verticalAlign: 'center',
